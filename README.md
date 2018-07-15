@@ -1,9 +1,9 @@
 # Table of Contents
 1. [Problem](README.md#problem)
-2. [Input and Output file format](README.md#Input and Output file format)
-5. [Approach](README.md#Approach)
-6. [Run instructions](README.md#Run instructions)
-7. [Performance and tests](README.md#Performance and tests)
+2. [Input and Output file format](README.md#input-and-output-file-format)
+5. [Approach](README.md#approach)
+6. [Run instructions](README.md#run-instructions)
+7. [Performance and tests](README.md#performance-and-tests)
 
 # Problem
 
